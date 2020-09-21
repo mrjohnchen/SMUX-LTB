@@ -12,5 +12,4 @@ Key components of the website include:
 * Past Videos done by SMU-X students
 
 ![Website Header](/images/header%20smu-x.png)
-[![Scrolling Nav Preview](https://startbootstrap.com/assets/img/screenshots/templates/scrolling-nav.png)](https://startbootstrap.github.io/startbootstrap-scrolling-nav/)
 
